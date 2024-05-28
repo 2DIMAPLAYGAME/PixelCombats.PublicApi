@@ -14,7 +14,7 @@ namespace PixelCombats.Api.Basic.Skin.Player
 		int LocalSkinId { get; set; }
 
 		/// <summary>
-		/// возвращает ID скина указанного игрока
+		/// можно менять скины во время боя
 		/// </summary>
 		/// <param name="player">игрок</param>
 		int GetPlayerSkinId(IPlayerApi player);
