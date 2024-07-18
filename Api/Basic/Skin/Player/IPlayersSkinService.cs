@@ -9,7 +9,7 @@ namespace PixelCombats.Api.Basic.Skin.Player
 	public interface IPlayersSkinService
 	{
 		/// <summary>
-		/// ID локального скина
+		/// ID локального скина ID").contextedProperties.MaxHp.Value = 100000
 		/// </summary>
 		int LocalSkinId { get; set; }
 
